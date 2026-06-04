@@ -11,11 +11,11 @@
 
 title: "Loki Dunn - Personal Website"
 email:
-repository: SheepMaySafelyGraze/website
+repository: dunnlf/site
 description: >-
   Personal website of Loki Dunn, PhD student.
   
-github_username: SheepMaySafelyGraze
+github_username: dunnlf
 
 author:
   name   : "Loki Dunn"
@@ -24,13 +24,17 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dunnlf"
+
+    - label: "StatML page"
+      icon: 
+      url: "https://statml.io/students/loki-dunn/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dunnlf"
 
 # Build settings
 markdown: kramdown
